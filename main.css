@@ -11,18 +11,7 @@ body{
   width: 400px;
   padding: 10px;
 }
-.introright{
-  float:right;
-  height: 100px;
-  widows: 400px;
-  padding: 10px;
-}
-.intro2{
-  float: left;
-  height:100px;
-  width: 400px;
-  padding: 10px;
-}
+
 .intro2right{
   float: right;
   height:100px;
@@ -34,9 +23,6 @@ body{
   width: 100%;
   height: 250px;
   background: rgba(0,0,0,0.6);
-  
-  
- 
 }
 
 
