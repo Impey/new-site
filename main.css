@@ -11,8 +11,20 @@ body{
   width: 400px;
   padding: 10px;
 }
+.introright{
+  float:right;
+  height: 100px;
+  widows: 400px;
+  padding: 10px;
+}
 .intro2{
   float: left;
+  height:100px;
+  width: 400px;
+  padding: 10px;
+}
+.intro2right{
+  float: right;
   height:100px;
   width: 400px;
   padding: 10px;
@@ -82,5 +94,11 @@ li a:hover:not(.active) {
 .img2{
  float: right;
  height: 360px;
+ widows: 500px;
+}
+
+.img3{
+  float:left;
+  height: 360px;
  widows: 500px;
 }
